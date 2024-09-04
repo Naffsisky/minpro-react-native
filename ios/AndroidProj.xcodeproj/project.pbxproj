@@ -14,6 +14,14 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-AndroidProj-AndroidProjTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-AndroidProj-AndroidProjTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		D329A66F7CC9432DBF46E403 /* SUSE-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C5B8DAAF00B543F8BD4D14E8 /* SUSE-Bold.ttf */; };
+		445D48E50F6B45819D54E922 /* SUSE-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 62CFAFE48AC24877ADF8F69F /* SUSE-ExtraBold.ttf */; };
+		438C2834B6EA4605977D7AE3 /* SUSE-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56939C4E26D840A780D4A020 /* SUSE-ExtraLight.ttf */; };
+		379D3DE05CB14472AB5B13B9 /* SUSE-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4F5DA2F5373F4845A723264E /* SUSE-Light.ttf */; };
+		1E8E5E6E37A445F88D8039A0 /* SUSE-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38B29AC1411B492398421721 /* SUSE-Medium.ttf */; };
+		7B58DB882EC049C9ADC0CB53 /* SUSE-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37EC120EA38649DF9E274616 /* SUSE-Regular.ttf */; };
+		C82F91AD93474B37B44A4A3D /* SUSE-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F8422A274C7C43C3A8C4F77C /* SUSE-SemiBold.ttf */; };
+		61CDC0C963344D19A5E5636A /* SUSE-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E772CF09F1404FB8839F3BE1 /* SUSE-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +53,14 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AndroidProj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-AndroidProj-AndroidProjTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AndroidProj-AndroidProjTests.release.xcconfig"; path = "Target Support Files/Pods-AndroidProj-AndroidProjTests/Pods-AndroidProj-AndroidProjTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		C5B8DAAF00B543F8BD4D14E8 /* SUSE-Bold.ttf */ = {isa = PBXFileReference; name = "SUSE-Bold.ttf"; path = "../assets/fonts/SUSE-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		62CFAFE48AC24877ADF8F69F /* SUSE-ExtraBold.ttf */ = {isa = PBXFileReference; name = "SUSE-ExtraBold.ttf"; path = "../assets/fonts/SUSE-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		56939C4E26D840A780D4A020 /* SUSE-ExtraLight.ttf */ = {isa = PBXFileReference; name = "SUSE-ExtraLight.ttf"; path = "../assets/fonts/SUSE-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4F5DA2F5373F4845A723264E /* SUSE-Light.ttf */ = {isa = PBXFileReference; name = "SUSE-Light.ttf"; path = "../assets/fonts/SUSE-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		38B29AC1411B492398421721 /* SUSE-Medium.ttf */ = {isa = PBXFileReference; name = "SUSE-Medium.ttf"; path = "../assets/fonts/SUSE-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		37EC120EA38649DF9E274616 /* SUSE-Regular.ttf */ = {isa = PBXFileReference; name = "SUSE-Regular.ttf"; path = "../assets/fonts/SUSE-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F8422A274C7C43C3A8C4F77C /* SUSE-SemiBold.ttf */ = {isa = PBXFileReference; name = "SUSE-SemiBold.ttf"; path = "../assets/fonts/SUSE-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E772CF09F1404FB8839F3BE1 /* SUSE-Thin.ttf */ = {isa = PBXFileReference; name = "SUSE-Thin.ttf"; path = "../assets/fonts/SUSE-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +140,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A33854F6ABEC4A8D9911A288 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +166,22 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		A33854F6ABEC4A8D9911A288 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				C5B8DAAF00B543F8BD4D14E8 /* SUSE-Bold.ttf */,
+				62CFAFE48AC24877ADF8F69F /* SUSE-ExtraBold.ttf */,
+				56939C4E26D840A780D4A020 /* SUSE-ExtraLight.ttf */,
+				4F5DA2F5373F4845A723264E /* SUSE-Light.ttf */,
+				38B29AC1411B492398421721 /* SUSE-Medium.ttf */,
+				37EC120EA38649DF9E274616 /* SUSE-Regular.ttf */,
+				F8422A274C7C43C3A8C4F77C /* SUSE-SemiBold.ttf */,
+				E772CF09F1404FB8839F3BE1 /* SUSE-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +278,14 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				D329A66F7CC9432DBF46E403 /* SUSE-Bold.ttf in Resources */,
+				445D48E50F6B45819D54E922 /* SUSE-ExtraBold.ttf in Resources */,
+				438C2834B6EA4605977D7AE3 /* SUSE-ExtraLight.ttf in Resources */,
+				379D3DE05CB14472AB5B13B9 /* SUSE-Light.ttf in Resources */,
+				1E8E5E6E37A445F88D8039A0 /* SUSE-Medium.ttf in Resources */,
+				7B58DB882EC049C9ADC0CB53 /* SUSE-Regular.ttf in Resources */,
+				C82F91AD93474B37B44A4A3D /* SUSE-SemiBold.ttf in Resources */,
+				61CDC0C963344D19A5E5636A /* SUSE-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
